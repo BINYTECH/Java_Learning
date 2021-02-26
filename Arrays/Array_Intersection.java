@@ -1,4 +1,7 @@
-/*Array Intersection:- Given two arrays print the common elements present in both the arrays. */
+/*Array Intersection:- Given two arrays print the common elements present in both the arrays.
+arr1={7,5,6,4};
+arr2={1,5,7};
+Output={7,5}    */
 
 import java.util.Scanner;
 
